@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\WEBAPI_presentation_layer\\WEBAPI_presentation_layer.csproj": {}
+  },
+  "projects": {
+    "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_BLL\\Project_BLL.csproj": {
+      "restore": {
+        "projectUniqueName": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_BLL\\Project_BLL.csproj",
+        "projectName": "Project_BLL",
+        "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_BLL\\Project_BLL.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Project_DAL.csproj": {
+                "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Project_DAL.csproj"
+              },
+              "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj": {
+                "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Project_DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Project_DAL.csproj",
+        "projectName": "Project_DAL",
+        "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Project_DAL.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj": {
+                "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj",
+        "projectName": "Project_Domain",
+        "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Test\\Project_Test.csproj": {
+      "restore": {
+        "projectUniqueName": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Test\\Project_Test.csproj",
+        "projectName": "Project_Test",
+        "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Test\\Project_Test.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\WEBAPI_presentation_layer\\WEBAPI_presentation_layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\WEBAPI_presentation_layer\\WEBAPI_presentation_layer.csproj",
+        "projectName": "WEBAPI_presentation_layer",
+        "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\WEBAPI_presentation_layer\\WEBAPI_presentation_layer.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\WEBAPI_presentation_layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_BLL\\Project_BLL.csproj": {
+                "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_BLL\\Project_BLL.csproj"
+              },
+              "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj": {
+                "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj"
+              },
+              "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Test\\Project_Test.csproj": {
+                "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Test\\Project_Test.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
