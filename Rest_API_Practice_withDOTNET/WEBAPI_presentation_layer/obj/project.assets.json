@@ -92,7 +92,6 @@
       "Project_BLL/1.0.0": {
         "type": "project",
         "dependencies": {
-          "Project_DAL": "1.0.0",
           "Project_Domain": "1.0.0"
         },
         "compile": {
@@ -100,18 +99,6 @@
         },
         "runtime": {
           "bin/placeholder/Project_BLL.dll": {}
-        }
-      },
-      "Project_DAL/1.0.0": {
-        "type": "project",
-        "dependencies": {
-          "Project_Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Project_DAL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Project_DAL.dll": {}
         }
       },
       "Project_Domain/1.0.0": {
@@ -487,11 +474,6 @@
       "type": "project",
       "path": "../Project_BLL/Project_BLL.csproj",
       "msbuildProject": "../Project_BLL/Project_BLL.csproj"
-    },
-    "Project_DAL/1.0.0": {
-      "type": "project",
-      "path": "../Project_DAL/Project_DAL.csproj",
-      "msbuildProject": "../Project_DAL/Project_DAL.csproj"
     },
     "Project_Domain/1.0.0": {
       "type": "project",

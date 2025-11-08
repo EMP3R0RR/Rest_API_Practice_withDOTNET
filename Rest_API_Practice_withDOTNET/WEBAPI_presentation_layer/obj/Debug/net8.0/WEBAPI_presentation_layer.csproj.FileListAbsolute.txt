@@ -11,13 +11,11 @@ G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNE
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\WEBAPI_presentation_layer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\WEBAPI_presentation_layer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\WEBAPI_presentation_layer\bin\Debug\net8.0\Project_BLL.dll
-G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\WEBAPI_presentation_layer\bin\Debug\net8.0\Project_DAL.dll
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\WEBAPI_presentation_layer\bin\Debug\net8.0\Project_Domain.dll
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\WEBAPI_presentation_layer\bin\Debug\net8.0\Project_Test.dll
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\WEBAPI_presentation_layer\bin\Debug\net8.0\Project_BLL.pdb
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\WEBAPI_presentation_layer\bin\Debug\net8.0\Project_Domain.pdb
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\WEBAPI_presentation_layer\bin\Debug\net8.0\Project_Test.pdb
-G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\WEBAPI_presentation_layer\bin\Debug\net8.0\Project_DAL.pdb
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\WEBAPI_presentation_layer\obj\Debug\net8.0\WEBAPI_presentation_layer.csproj.AssemblyReference.cache
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\WEBAPI_presentation_layer\obj\Debug\net8.0\rpswa.dswa.cache.json
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\WEBAPI_presentation_layer\obj\Debug\net8.0\WEBAPI_presentation_layer.GeneratedMSBuildEditorConfig.editorconfig

@@ -66,22 +66,10 @@
       },
       "Project_BLL/1.0.0": {
         "dependencies": {
-          "Project_DAL": "1.0.0",
           "Project_Domain": "1.0.0"
         },
         "runtime": {
           "Project_BLL.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "Project_DAL/1.0.0": {
-        "dependencies": {
-          "Project_Domain": "1.0.0"
-        },
-        "runtime": {
-          "Project_DAL.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -154,11 +142,6 @@
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
     },
     "Project_BLL/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Project_DAL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

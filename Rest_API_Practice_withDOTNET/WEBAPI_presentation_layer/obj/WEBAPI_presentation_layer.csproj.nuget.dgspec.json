@@ -13,29 +13,6 @@
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Project_DAL.csproj": {
-                "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Project_DAL.csproj"
-              },
-              "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj": {
-                "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj"
-              }
-            }
-          }
-        }
-      },
-      "frameworks": {
-        "net472": {}
-      }
-    },
-    "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Project_DAL.csproj": {
-      "restore": {
-        "projectUniqueName": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Project_DAL.csproj",
-        "projectName": "Project_DAL",
-        "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Project_DAL.csproj",
-        "UsingMicrosoftNETSdk": false,
-        "frameworks": {
-          "net472": {
-            "projectReferences": {
               "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj": {
                 "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj"
               }
