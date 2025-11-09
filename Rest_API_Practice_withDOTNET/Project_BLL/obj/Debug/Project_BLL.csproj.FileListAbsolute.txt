@@ -7,3 +7,9 @@ G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNE
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_BLL\obj\Debug\Project_.FD033855.Up2Date
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_BLL\obj\Debug\Project_BLL.dll
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_BLL\obj\Debug\Project_BLL.pdb
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_BLL\bin\Debug\Project_BLL.dll.config
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_BLL\bin\Debug\EntityFramework.dll
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_BLL\bin\Debug\EntityFramework.SqlServer.dll
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_BLL\bin\Debug\Project_Domain.dll.config
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_BLL\bin\Debug\EntityFramework.xml
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_BLL\bin\Debug\EntityFramework.SqlServer.xml

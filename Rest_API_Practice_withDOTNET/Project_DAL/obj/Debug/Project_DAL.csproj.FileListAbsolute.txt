@@ -7,3 +7,9 @@ G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNE
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_DAL\bin\Debug\Project_Domain.dll
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_DAL\bin\Debug\Project_Domain.pdb
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_DAL\obj\Debug\Project_.49763FBB.Up2Date
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_DAL\bin\Debug\Project_DAL.dll.config
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_DAL\bin\Debug\EntityFramework.dll
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_DAL\bin\Debug\Project_Domain.dll.config
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_DAL\bin\Debug\EntityFramework.xml
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_DAL\bin\Debug\EntityFramework.SqlServer.xml

@@ -4,3 +4,9 @@ G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNE
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\obj\Debug\Project_Domain.csproj.CoreCompileInputs.cache
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\obj\Debug\Project_Domain.dll
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\obj\Debug\Project_Domain.pdb
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\bin\Debug\Project_Domain.dll.config
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\bin\Debug\EntityFramework.dll
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\bin\Debug\EntityFramework.SqlServer.dll
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\bin\Debug\EntityFramework.xml
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\bin\Debug\EntityFramework.SqlServer.xml
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\obj\Debug\Project_.E4B79F83.Up2Date
