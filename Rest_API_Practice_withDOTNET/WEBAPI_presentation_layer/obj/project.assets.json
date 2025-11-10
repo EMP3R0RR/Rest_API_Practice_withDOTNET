@@ -429,32 +429,11 @@
       },
       "Project_BLL/1.0.0": {
         "type": "project",
-        "dependencies": {
-          "Project_Domain": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/Project_BLL.dll": {}
         },
         "runtime": {
           "bin/placeholder/Project_BLL.dll": {}
-        }
-      },
-      "Project_Domain/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Project_Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Project_Domain.dll": {}
-        }
-      },
-      "Project_Test/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Project_Test.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Project_Test.dll": {}
         }
       }
     }
@@ -1515,24 +1494,12 @@
       "type": "project",
       "path": "../Project_BLL/Project_BLL.csproj",
       "msbuildProject": "../Project_BLL/Project_BLL.csproj"
-    },
-    "Project_Domain/1.0.0": {
-      "type": "project",
-      "path": "../Project_Domain/Project_Domain.csproj",
-      "msbuildProject": "../Project_Domain/Project_Domain.csproj"
-    },
-    "Project_Test/1.0.0": {
-      "type": "project",
-      "path": "../Project_Test/Project_Test.csproj",
-      "msbuildProject": "../Project_Test/Project_Test.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "EntityFramework >= 6.5.1",
       "Project_BLL >= 1.0.0",
-      "Project_Domain >= 1.0.0",
-      "Project_Test >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -1570,12 +1537,6 @@
           "projectReferences": {
             "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_BLL\\Project_BLL.csproj": {
               "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_BLL\\Project_BLL.csproj"
-            },
-            "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj": {
-              "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj"
-            },
-            "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Test\\Project_Test.csproj": {
-              "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Test\\Project_Test.csproj"
             }
           }
         }

@@ -12,42 +12,6 @@
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net472": {
-            "projectReferences": {
-              "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj": {
-                "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj"
-              }
-            }
-          }
-        }
-      },
-      "frameworks": {
-        "net472": {}
-      }
-    },
-    "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj": {
-      "restore": {
-        "projectUniqueName": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj",
-        "projectName": "Project_Domain",
-        "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj",
-        "UsingMicrosoftNETSdk": false,
-        "frameworks": {
-          "net472": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net472": {}
-      }
-    },
-    "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Test\\Project_Test.csproj": {
-      "restore": {
-        "projectUniqueName": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Test\\Project_Test.csproj",
-        "projectName": "Project_Test",
-        "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Test\\Project_Test.csproj",
-        "UsingMicrosoftNETSdk": false,
-        "frameworks": {
-          "net472": {
             "projectReferences": {}
           }
         }
@@ -86,12 +50,6 @@
             "projectReferences": {
               "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_BLL\\Project_BLL.csproj": {
                 "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_BLL\\Project_BLL.csproj"
-              },
-              "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj": {
-                "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Project_Domain.csproj"
-              },
-              "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Test\\Project_Test.csproj": {
-                "projectPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Test\\Project_Test.csproj"
               }
             }
           }

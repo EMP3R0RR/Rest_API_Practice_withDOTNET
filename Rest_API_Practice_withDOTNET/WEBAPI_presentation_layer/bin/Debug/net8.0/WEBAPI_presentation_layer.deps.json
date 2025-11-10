@@ -10,8 +10,6 @@
         "dependencies": {
           "EntityFramework": "6.5.1",
           "Project_BLL": "1.0.0",
-          "Project_Domain": "1.0.0",
-          "Project_Test": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
@@ -264,27 +262,8 @@
         }
       },
       "Project_BLL/1.0.0": {
-        "dependencies": {
-          "Project_Domain": "1.0.0"
-        },
         "runtime": {
           "Project_BLL.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "Project_Domain/1.0.0": {
-        "runtime": {
-          "Project_Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "Project_Test/1.0.0": {
-        "runtime": {
-          "Project_Test.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -467,16 +446,6 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "Project_BLL/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Project_Domain/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Project_Test/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

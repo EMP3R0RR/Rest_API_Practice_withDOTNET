@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rest_API_Practice_withDOTNET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+122b6387f40d655384520dc30c2f0fb493ed9e78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d9d6cea233904e3d0374752d4085dc0192a6dc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rest_API_Practice_withDOTNET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rest_API_Practice_withDOTNET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

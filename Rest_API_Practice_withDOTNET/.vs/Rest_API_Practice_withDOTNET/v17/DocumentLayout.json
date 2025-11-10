@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F26ABDF-5BA7-47C0-BFA8-34BCAFAA4E15}|Project_Domain\\Project_Domain.csproj|g:\\asp dot net projects\\rest_api_practice_withdotnet\\rest_api_practice_withdotnet\\project_domain\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F26ABDF-5BA7-47C0-BFA8-34BCAFAA4E15}|Project_Domain\\Project_Domain.csproj|solutionrelative:project_domain\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F26ABDF-5BA7-47C0-BFA8-34BCAFAA4E15}|Project_Domain\\Project_Domain.csproj|g:\\asp dot net projects\\rest_api_practice_withdotnet\\rest_api_practice_withdotnet\\project_domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F26ABDF-5BA7-47C0-BFA8-34BCAFAA4E15}|Project_Domain\\Project_Domain.csproj|solutionrelative:project_domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B1C9A43-B127-4035-96B0-4711168D5139}|Project_BLL\\Project_BLL.csproj|g:\\asp dot net projects\\rest_api_practice_withdotnet\\rest_api_practice_withdotnet\\project_bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1C9A43-B127-4035-96B0-4711168D5139}|Project_BLL\\Project_BLL.csproj|solutionrelative:project_bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D5C3D4F-D8C0-4EBA-B023-CE4E2E89EA93}|Project_DAL\\Project_DAL.csproj|g:\\asp dot net projects\\rest_api_practice_withdotnet\\rest_api_practice_withdotnet\\project_dal\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D5C3D4F-D8C0-4EBA-B023-CE4E2E89EA93}|Project_DAL\\Project_DAL.csproj|solutionrelative:project_dal\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D5C3D4F-D8C0-4EBA-B023-CE4E2E89EA93}|Project_DAL\\Project_DAL.csproj|g:\\asp dot net projects\\rest_api_practice_withdotnet\\rest_api_practice_withdotnet\\project_dal\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{3D5C3D4F-D8C0-4EBA-B023-CE4E2E89EA93}|Project_DAL\\Project_DAL.csproj|solutionrelative:project_dal\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D5C3D4F-D8C0-4EBA-B023-CE4E2E89EA93}|Project_DAL\\Project_DAL.csproj|g:\\asp dot net projects\\rest_api_practice_withdotnet\\rest_api_practice_withdotnet\\project_dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3D5C3D4F-D8C0-4EBA-B023-CE4E2E89EA93}|Project_DAL\\Project_DAL.csproj|solutionrelative:project_dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01FE9D63-5EC9-43DD-9731-D5142A46A985}|Project_Test\\Project_Test.csproj|g:\\asp dot net projects\\rest_api_practice_withdotnet\\rest_api_practice_withdotnet\\project_test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01FE9D63-5EC9-43DD-9731-D5142A46A985}|Project_Test\\Project_Test.csproj|solutionrelative:project_test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D5C3D4F-D8C0-4EBA-B023-CE4E2E89EA93}|Project_DAL\\Project_DAL.csproj|g:\\asp dot net projects\\rest_api_practice_withdotnet\\rest_api_practice_withdotnet\\project_dal\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5C3D4F-D8C0-4EBA-B023-CE4E2E89EA93}|Project_DAL\\Project_DAL.csproj|solutionrelative:project_dal\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F26ABDF-5BA7-47C0-BFA8-34BCAFAA4E15}|Project_Domain\\Project_Domain.csproj|g:\\asp dot net projects\\rest_api_practice_withdotnet\\rest_api_practice_withdotnet\\project_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F26ABDF-5BA7-47C0-BFA8-34BCAFAA4E15}|Project_Domain\\Project_Domain.csproj|solutionrelative:project_domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D5C3D4F-D8C0-4EBA-B023-CE4E2E89EA93}|Project_DAL\\Project_DAL.csproj|g:\\asp dot net projects\\rest_api_practice_withdotnet\\rest_api_practice_withdotnet\\project_dal\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3D5C3D4F-D8C0-4EBA-B023-CE4E2E89EA93}|Project_DAL\\Project_DAL.csproj|solutionrelative:project_dal\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FE9D63-5EC9-43DD-9731-D5142A46A985}|Project_Test\\Project_Test.csproj|g:\\asp dot net projects\\rest_api_practice_withdotnet\\rest_api_practice_withdotnet\\project_test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FE9D63-5EC9-43DD-9731-D5142A46A985}|Project_Test\\Project_Test.csproj|solutionrelative:project_test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B1C9A43-B127-4035-96B0-4711168D5139}|Project_BLL\\Project_BLL.csproj|g:\\asp dot net projects\\rest_api_practice_withdotnet\\rest_api_practice_withdotnet\\project_bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,46 +50,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Project_Domain\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Interfaces\\IUserRepository.cs*",
-              "RelativeToolTip": "Project_Domain\\Interfaces\\IUserRepository.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T09:27:05.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserDTO.cs",
-              "DocumentMoniker": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\DTO\\UserDTO.cs",
-              "RelativeDocumentMoniker": "Project_Domain\\DTO\\UserDTO.cs",
-              "ToolTip": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\DTO\\UserDTO.cs",
-              "RelativeToolTip": "Project_Domain\\DTO\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_BLL\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Project_BLL\\DTO\\UserDTO.cs",
+              "ToolTip": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_BLL\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Project_BLL\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T09:24:13.195Z",
+              "WhenOpened": "2025-11-10T14:44:15.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Data\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Project_DAL\\Data\\Model1.Context.cs",
+              "ToolTip": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Data\\Model1.Context.cs",
+              "RelativeToolTip": "Project_DAL\\Data\\Model1.Context.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T09:40:37.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Data\\User.cs",
               "RelativeDocumentMoniker": "Project_DAL\\Data\\User.cs",
               "ToolTip": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Data\\User.cs",
               "RelativeToolTip": "Project_DAL\\Data\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T09:22:03.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Data\\Model1.edmx",
               "RelativeDocumentMoniker": "Project_DAL\\Data\\Model1.edmx",
@@ -105,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "App.Config",
               "DocumentMoniker": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\App.Config",
               "RelativeDocumentMoniker": "Project_DAL\\App.Config",
@@ -133,19 +129,6 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Class1.cs",
-              "DocumentMoniker": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Project_Domain\\Class1.cs",
-              "ToolTip": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_Domain\\Class1.cs",
-              "RelativeToolTip": "Project_Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T18:09:36.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
               "DocumentMoniker": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_BLL\\Class1.cs",
               "RelativeDocumentMoniker": "Project_BLL\\Class1.cs",
               "ToolTip": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_BLL\\Class1.cs",
@@ -157,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Class1.cs",
               "DocumentMoniker": "G:\\ASP DOT NET projects\\Rest_API_Practice_withDOTNET\\Rest_API_Practice_withDOTNET\\Project_DAL\\Class1.cs",
               "RelativeDocumentMoniker": "Project_DAL\\Class1.cs",

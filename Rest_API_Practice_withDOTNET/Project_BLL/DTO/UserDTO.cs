@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project_Domain.DTO
+namespace Project_BLL.DTO
 {
     public class UserDTO
     {
@@ -12,7 +12,7 @@ namespace Project_Domain.DTO
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Email { get; set; }
-        public DateTime? DateOfBirth { get; set; }
+        public System.DateTime DateOfBirth { get; set; }
         public bool IsActive { get; set; }
     }
 }

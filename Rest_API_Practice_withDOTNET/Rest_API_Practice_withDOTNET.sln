@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_DAL", "Project_DAL\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_BLL", "Project_BLL\Project_BLL.csproj", "{1B1C9A43-B127-4035-96B0-4711168D5139}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Domain", "Project_Domain\Project_Domain.csproj", "{0F26ABDF-5BA7-47C0-BFA8-34BCAFAA4E15}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Test", "Project_Test\Project_Test.csproj", "{01FE9D63-5EC9-43DD-9731-D5142A46A985}"
 EndProject
 Global
@@ -37,10 +35,6 @@ Global
 		{1B1C9A43-B127-4035-96B0-4711168D5139}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B1C9A43-B127-4035-96B0-4711168D5139}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B1C9A43-B127-4035-96B0-4711168D5139}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0F26ABDF-5BA7-47C0-BFA8-34BCAFAA4E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F26ABDF-5BA7-47C0-BFA8-34BCAFAA4E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F26ABDF-5BA7-47C0-BFA8-34BCAFAA4E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F26ABDF-5BA7-47C0-BFA8-34BCAFAA4E15}.Release|Any CPU.Build.0 = Release|Any CPU
 		{01FE9D63-5EC9-43DD-9731-D5142A46A985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{01FE9D63-5EC9-43DD-9731-D5142A46A985}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01FE9D63-5EC9-43DD-9731-D5142A46A985}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -10,3 +10,6 @@ G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNE
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\bin\Debug\EntityFramework.xml
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\bin\Debug\EntityFramework.SqlServer.xml
 G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\obj\Debug\Project_.E4B79F83.Up2Date
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\bin\Debug\Project_DAL.dll
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\bin\Debug\Project_DAL.pdb
+G:\ASP DOT NET projects\Rest_API_Practice_withDOTNET\Rest_API_Practice_withDOTNET\Project_Domain\bin\Debug\Project_DAL.dll.config
